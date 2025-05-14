@@ -20,7 +20,7 @@
 
 
   <div style="background: transparent; border-radius: 10px; padding: 20px; margin: 20px 0;">
-      <img src="https://lanyard.cnrad.dev/api/1326097559114092575?theme=dark&bg=transparent&idleMessage=//%20xtazy%20<3...&borderRadius=10px&textColor=f1c232" alt="Discord Status">
+      <img src="https://lanyard.cnrad.dev/api/1326097559114092575?theme=dark&bg=transparent&idleMessage=//%20xtazy%20<3&borderRadius=10px&textColor=f1c232" alt="Discord Status">
   </div>
 
 <div align="center">
