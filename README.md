@@ -20,7 +20,7 @@
 
 
   <div style="background: transparent; border-radius: 10px; padding: 20px; margin: 20px 0;">
-      <a href="https://discord.com/users/1326097559114092575"><img src="https://lanyard.cnrad.dev/api/1326097559114092575?bg=&showDisplayName=true&hideDecoration=true&theme=dark&idleMessage=KODAK&20BLU" /></a>
+      <a href="https://discord.com/users/1326097559114092575"><img src="https://lanyard.cnrad.dev/api/1326097559114092575?bg=&showDisplayName=true&hideDecoration=true&theme=dark&idleMessage=KODAK%20BLU" /></a>
   </div>
 
 <div align="center">
