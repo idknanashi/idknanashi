@@ -18,6 +18,12 @@
     <img src="https://img.shields.io/badge/Python-f1c232?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </div>
 
+<div align="center">
+
+[![widget](https://invidget.switchblade.xyz/xtazy)](https://discord.gg/xtazy)
+
+</div>
+
 
   <div style="background: transparent; border-radius: 10px; padding: 20px; margin: 20px 0;">
       <img src="https://lanyard.cnrad.dev/api/1326097559114092575?theme=dark&bg=transparent&idleMessage=Currently%20not%20doing%20anything...&borderRadius=10px&textColor=f1c232" alt="Discord Status">
