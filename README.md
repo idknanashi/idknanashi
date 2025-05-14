@@ -18,16 +18,16 @@
     <img src="https://img.shields.io/badge/Python-f1c232?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </div>
 
+
+  <div style="background: transparent; border-radius: 10px; padding: 20px; margin: 20px 0;">
+      <img src="https://lanyard.cnrad.dev/api/1326097559114092575?theme=dark&bg=transparent&idleMessage=//%20xtazy%20<3...&borderRadius=10px&textColor=f1c232" alt="Discord Status">
+  </div>
+
 <div align="center">
 
 [![widget](https://invidget.switchblade.xyz/xtazy)](https://discord.gg/xtazy)
 
 </div>
-
-
-  <div style="background: transparent; border-radius: 10px; padding: 20px; margin: 20px 0;">
-      <img src="https://lanyard.cnrad.dev/api/1326097559114092575?theme=dark&bg=transparent&idleMessage=Currently%20not%20doing%20anything...&borderRadius=10px&textColor=f1c232" alt="Discord Status">
-  </div>
 
   <div style="background: rgba(137, 43, 226, 0); border-radius: 10px; padding: 20px; margin: 20px 0;">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=7hd2qy9twhbykcj9skuoxdkae&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=f1c232&bar_color_cover=false" alt="Spotify">
